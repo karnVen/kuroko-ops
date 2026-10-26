@@ -1,0 +1,12 @@
+﻿# OS metadata
+.DS_Store
+Thumbs.db
+
+# Temporary files
+*.tmp
+*.swp
+*~
+
+# Obsidian local workspace cache (keeps notes clean)
+.obsidian/workspace*
+.obsidian/cache
