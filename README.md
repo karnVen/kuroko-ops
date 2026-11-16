@@ -75,8 +75,9 @@ kuroko-ops/
 └── 01-Linux/                                # Phase 1: Linux & Systems Engineering
     ├── 00-Linux-Tracker.md                  # Central skill checklist & notes index
     ├── 01-NetworkChuck/                     # Video-by-video deep-dive master notes
-    │   ├── Ep-01-Terminal-and-Navigation.md # Filesystem tree, paths, and bash prompt
-    │   └── Ep-02-Filesystem-Hierarchy.md    # FHS, VFS, File Descriptors (0/1/2), 7 POSIX types
+    │   ├── Ep-01-Terminal-and-Navigation.md    # Filesystem tree, paths, and bash prompt
+    │   ├── Ep-02-Filesystem-Hierarchy.md       # FHS, VFS, File Descriptors (0/1/2), 7 POSIX types
+    │   └── Ep-03-Help-and-System-Discovery.md  # Terminal vs Shell, man pages, and telemetry commands
     └── 02-HTB-Academy/                      # HackTheBox Academy Linux Fundamentals
         └── README.md                        # HTB Module 18 labs & challenge write-ups
 ```

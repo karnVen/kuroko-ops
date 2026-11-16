@@ -20,6 +20,7 @@ When watching an episode:
 |:---:|:---|:---|:---:|
 | **01** | [Ep. 01: Terminal & Navigation](01-NetworkChuck/Ep-01-Terminal-and-Navigation.md) | `pwd`, `ls -la`, `cd`, Absolute vs. Relative Paths, Root Tree (`/`) | ✅ Completed |
 | **02** | [Ep. 02: Filesystem Hierarchy & Everything is a File](01-NetworkChuck/Ep-02-Filesystem-Hierarchy.md) | FHS, Root (`/`) vs `/root`, VFS Architecture, 7 POSIX File Types, File Descriptors 0/1/2, Docker Socket Security, `EMFILE` | ✅ Completed |
+| **03** | [Ep. 03: Getting Help & System Discovery](01-NetworkChuck/Ep-03-Help-and-System-Discovery.md) | Terminal vs. Shell, PTY/TTY, `man` (8 Sections), `apropos`, Built-ins vs Binaries, Discovery Commands (`uname -a`, `id`, `env`, `lsblk`, `ip`, `ss`, `lsof`) | ✅ Completed |
 
 ---
 
