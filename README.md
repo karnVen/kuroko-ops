@@ -1,4 +1,4 @@
-﻿<div align="center">
+<div align="center">
 
 # 黒子 // KUROKO-OPS
 ### *The Art of Invisible Infrastructure & Autonomous Systems*

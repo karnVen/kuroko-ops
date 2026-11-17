@@ -1,4 +1,4 @@
-﻿# Phase 1: Linux Fundamentals — Tracker & Study Index
+# Phase 1: Linux Fundamentals — Tracker & Study Index
 
 > **Status:** Active  
 > **Master Roadmap Link:** `../00-DevOps-Roadmap-Master.md`  
